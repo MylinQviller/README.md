@@ -1,5 +1,5 @@
 # README.md
-# Pyhton Password Generator
+# Python Password Generator
 This is a simple password generator program written in Python using the Tkinter library. It allows you to generate random passwords based on your specified requirements for letters, symbols, and numbers.
 
 ## Usage
